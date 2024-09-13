@@ -1,0 +1,17 @@
+groq
+uvicorn
+fastapi
+python-dotenv
+faiss-cpu
+langchain-groq
+PyPDF2
+pypdf
+langchain_google_genai
+langchain
+streamlit
+langchain_community
+
+
+
+
+    
